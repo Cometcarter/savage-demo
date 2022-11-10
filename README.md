@@ -1,3 +1,7 @@
+# :bat: :fallen_leaf: 21 Savage simple fan site:fallen_leaf: :bat:
+
+### created a simple fan site where people can talk about 21 Savage
+
 ![21 Savage](https://im2.ezgif.com/tmp/ezgif-2-a994b5c27e.gif)
 
 ## Installation

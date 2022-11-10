@@ -1,4 +1,4 @@
-![21 Savage](https://im2.ezgif.com/tmp/ezgif-2-426582a159.gif)
+![21 Savage](https://im2.ezgif.com/tmp/ezgif-2-a994b5c27e.gif)
 
 ## Installation
 

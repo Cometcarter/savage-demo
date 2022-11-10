@@ -4,6 +4,11 @@
 
 ![21 Savage](https://im2.ezgif.com/tmp/ezgif-2-a994b5c27e.gif)
 
+```
+I completed the challenge: 5
+I feel good about my code: 5
+```
+
 ## Installation
 
 1. Clone repo
@@ -13,3 +18,4 @@
 
 1. run `npm run savage`
 2. Navigate to `localhost:3000`
+3. 
